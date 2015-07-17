@@ -1,0 +1,1 @@
+This is for playing around to show checkout and other diff uses.
